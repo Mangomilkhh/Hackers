@@ -1,1 +1,0 @@
-import{a as t,l as o,c as a,h as s,t as n,o as r}from"./index-357f8981.js";const c=t({name:"About",data(){return{msg:"Hello Vue 3.0 + Vite!"}},setup(){}});function l(e,p,u,i,d,m){return r(),a("div",null,[s("h1",null,n(e.msg),1)])}const _=o(c,[["render",l]]);export{_ as default};
